@@ -1,0 +1,16 @@
+.app {
+  width: 100vw;
+  position: relative;
+  height: 100vh;
+  background: linear-gradient(to top, #1e555c, gray);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .title {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 2rem;
+  }
+}
