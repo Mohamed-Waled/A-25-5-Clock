@@ -20,7 +20,7 @@ This is a solution to the [Build a 25 + 5 Clock](https://www.freecodecamp.org/le
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://singular-toffee-9e5822.netlify.app/)
+- Live Site URL: [Live site URL here](https://a-25-5-clock-coral.vercel.app/)
 
 ## My process
 
